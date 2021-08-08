@@ -1,0 +1,38 @@
+.bgg {
+    background-color: gray;
+}
+.bgg p {
+    padding: 100px;
+    font-size: 90px;
+    color: rgb(41, 38, 38);
+}
+.paragraph {
+    font-size: 30px;
+    font-weight: 600;
+}
+i {
+    font-size: 35px;
+    padding-top: 8px;
+    font-family: serif;
+}
+.sp {
+    font-size: 9px;
+}
+.pp {
+    font-weight: 800;
+    margin-left: 100px;
+}
+.ppp {
+    font-weight: 800;
+}
+.wrap {
+    background-color: rgb(243, 243, 245);
+}
+span {
+    padding: 15px;
+    border-radius: 50%;
+    background-color: rgb(214, 214, 230);
+}
+span i {
+    font-size: 27px;
+}

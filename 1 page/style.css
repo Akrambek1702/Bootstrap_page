@@ -1,0 +1,25 @@
+.star {
+    font-size: large;
+}
+.pg {
+  border-radius: 20px;
+  padding: 10px;
+}
+i {
+  font-size: 25px;
+}
+.sp {
+  padding: 14px 10px 10px 10px;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin-left: 8px;
+}
+.pp {
+  margin-left: 13px;
+}
+.bgc {
+  background-color: rgb(23, 23, 36);
+}
+.bgg {
+  background-color: rgb(34, 34, 58);
+}
